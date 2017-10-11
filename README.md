@@ -18,8 +18,10 @@ exempel en uppgift som jag får lösa.
 Ett REST API som samlar data från KTH, KTH Social och KTH Canvas genom att
 härma en webbläsare (HTMLUnit). KTH har ett väldigt dåligt API och Canvas måste
 man betala för, så detta var en enklare lösning.
+
 Programmet kan hantera 'sessions' för olika användare och håller dem automatiskt
 inloggade under 10 minuter efter sista användning.
+
 Jag håller också på att utveckla en app i ReactNative som använder detta API.
 
 
@@ -28,9 +30,11 @@ Jag håller också på att utveckla en app i ReactNative som använder detta API
 Ett litet spel (som vill gärna få mer levels) som jag gjorde för en övning på
 KTH. Målet är att går runt och plocka siffror som sedan används för att lösa
 matematiska problem. Meningen med detta var att barn skulle kunna lära sig på
-ett roligt sätt. Idén var att man skulle kunna skaffa olika 'powers' genom att
+ett roligt sätt.
+
+Idén var att man skulle kunna skaffa olika 'powers' genom att
 lära sig nya matematiska operationer, till exempel (+) gör att man kan hoppa
-rutor för att hamna inom väggar... men det blev aldrig klart för att jag började
+rutor för att hamna inom väggar, men det blev aldrig klart för att jag började
 med ett annat projekt...
 
 
@@ -39,6 +43,7 @@ med ett annat projekt...
 Detta är en krypterad chattapp som använder websockets och AES 256 bitars
 kryptering. Det finns möjlighet att lägga till verifierade användare, vilket
 innebär att ett lösenord krävs för att välja ett visst användarnamn.
+
 Utvecklingen pågår fortfarande. Min bästa vän har precis flyttat till Kina och
 detta ska vara ett enkelt sätt att kommunicera med honom (plus att han är lite
 paranoid och gillar kryptering).
@@ -49,6 +54,7 @@ En simulator för elektroniska komponenter som körs i webbläsaren. Som det mes
 är det inte färdigt... Idén var att man skulle kunna skapa egna komponenter med
 grundkomponenter, som till exempel en OR gate med transistorer, som sedan läggs
 till i toolboxen för att kunna återanvända dem senare.
+
 Meningen med detta projekt var att bygga ett verktyg för att lära sig elektronik
 och logik, utan att riskera att man förstör hårdvaran. Idén var att man skulle
 kunna få information i realtid när man bygger, som till exempel råd, varningar
