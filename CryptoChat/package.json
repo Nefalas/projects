@@ -1,0 +1,18 @@
+{
+  "name": "cryptochat",
+  "version": "1.0.0",
+  "description": "Crypted Chat App",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Nefalas",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.17.2",
+    "express": "*",
+    "jsonwebtoken": "^7.4.1",
+    "nodemailer": "^4.0.1",
+    "socket.io": "*"
+  }
+}
