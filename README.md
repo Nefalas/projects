@@ -1,4 +1,4 @@
-### Intro
+## Intro
 
 Det här är en liten samling av små projekt jag har hållit på med. Tyvärr har
 jag inte mycket att visa eftersom det mesta intressanta jag gjort var för olika
@@ -8,6 +8,8 @@ förra när det gäller personliga projekt, vilket gör att jag aldrig blir klar
 dem...
 Om ni vill se mer specifika saker kan vi kanske komma på något annat, som till
 exempel en uppgift som jag får lösa.
+
+***
 
 **Jag har inkluderat fyra projekt:**
 
@@ -40,8 +42,6 @@ innebär att ett lösenord krävs för att välja ett visst användarnamn.
 Utvecklingen pågår fortfarande. Min bästa vän har precis flyttat till Kina och
 detta ska vara ett enkelt sätt att kommunicera med honom (plus att han är lite
 paranoid och gillar kryptering).
-
-***
 
  * #### LogicBuilder (JavaScript)
 
